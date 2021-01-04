@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_no86_分隔链表_w1", "leetcode_no86_分隔链表_w1.vcxproj", "{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Debug|x64.ActiveCfg = Debug|x64
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Debug|x64.Build.0 = Debug|x64
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Debug|x86.ActiveCfg = Debug|Win32
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Debug|x86.Build.0 = Debug|Win32
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Release|x64.ActiveCfg = Release|x64
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Release|x64.Build.0 = Release|x64
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Release|x86.ActiveCfg = Release|Win32
+		{B25A78D0-A6A7-4918-BC44-EB41F5E05D18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B692A5-5127-4C00-B9F2-6780DA5860EB}
+	EndGlobalSection
+EndGlobal
